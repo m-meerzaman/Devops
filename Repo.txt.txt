@@ -4,4 +4,6 @@ Now i am practicing the git pull command also with the conflicts (remote changes
 change from the main branch & change from feature/edit-file branch
 
 
-1-Eggs(locally)
+Git fetch Practice 
+1-Milk(online)
+2-Eggs(locally)
