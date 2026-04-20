@@ -14,6 +14,9 @@ Pull cmd Practice
 hi there (a change from Local Repo)
 hi there (a change from github)
 
+<<<<<<< Updated upstream
 
 Stash
 FIX: Corrected the production bug.
+--- FEATURE IN PROGRESS (DO NOT SHIP) ---
+
